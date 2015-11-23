@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPointInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PointInfo>
+    <Point>
+      <X>63.053947026594336</X>
+      <Y>56.970520789879629</Y>
+      <Z>1.5505900979042053</Z>
+    </Point>
+  </PointInfo>
+  <PointInfo>
+    <Point>
+      <X>63.053947448730469</X>
+      <Y>-42.570125579833984</Y>
+      <Z>1.5505900979042053</Z>
+    </Point>
+  </PointInfo>
+  <PointInfo>
+    <Point>
+      <X>-61.351993490988676</X>
+      <Y>-42.570125579833984</Y>
+      <Z>1.5505900979042053</Z>
+    </Point>
+  </PointInfo>
+  <PointInfo>
+    <Point>
+      <X>-61.351994165476896</X>
+      <Y>56.970520789879629</Y>
+      <Z>1.5505900979042053</Z>
+    </Point>
+  </PointInfo>
+</ArrayOfPointInfo>

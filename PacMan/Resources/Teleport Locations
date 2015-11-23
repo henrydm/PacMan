@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPointInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PointInfo>
+    <Point>
+      <X>-68.201907154137075</X>
+      <Y>2.3895347587761719</Y>
+      <Z>1.9355021726428643</Z>
+    </Point>
+  </PointInfo>
+  <PointInfo>
+    <Point>
+      <X>69.28065558807063</X>
+      <Y>2.38953475877617</Y>
+      <Z>1.9355021726428643</Z>
+    </Point>
+  </PointInfo>
+</ArrayOfPointInfo>
